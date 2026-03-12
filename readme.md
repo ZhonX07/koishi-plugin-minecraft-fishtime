@@ -15,7 +15,6 @@
 
 本项目在遵从许可协议的情况下对部分图像进行了裁剪、拼接处理或引用。
 
-许可协议：[CC BY-NC-SA 3.0]
-(https://creativecommons.org/licenses/by-nc-sa/3.0/)</p>
+许可协议：CC BY-NC-SA 3.0</p>
 
 
